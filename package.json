@@ -2,6 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://flipkart-clone-nine.vercel.app/",
   "main": "server.js",
   "type": "module",
   "scripts": {
